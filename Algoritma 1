@@ -1,0 +1,13 @@
+Tekan tombol "on" di CPU
+Lihat layar komputer
+If komputer menyala
+Komputer sudah bisa di gunakan
+Else if komputer tidak menyala
+Pencet tombol "on" monitor
+Balik ke line 2
+Else if komputer tidak menyala
+Cek sumber listrik
+Balik ke line 2
+Else if komputer tidak meyala
+Panggil teknisi
+Quit
