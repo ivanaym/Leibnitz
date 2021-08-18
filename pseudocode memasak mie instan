@@ -1,0 +1,12 @@
+Siapkan alat dan bahan
+Input air ke panci
+Nyalakan kompor (kompor disable=false)
+Letakan panci di atas kompor sampai air mendidih
+Buka kemasan mie instan
+Pisahkan mie dengan bumbu
+If air mendidih then input mie instan ke dalam panci
+Tunggu sampai matang
+If mie matang then matikan kompor (kompor disable=true)
+Input bumbu ke dalam panci
+Pindahkan mie dari panci ke mangkok
+Output mie instan
